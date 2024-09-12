@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I’m Edwin Hurtado, a passionate Mathematics student at Yachay Tech University in Ecuador, with a focus on algebra, topology, and computational methods. My curiosity lies at the intersection of theoretical mathematics and practical problem-solving, driving me to develop innovative solutions for real-world challenges.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Throughout my academic journey, I have co-founded projects like Math2Braille, where I developed a Python program to convert mathematical documents into Braille, making education more accessible to visually impaired students. I am also actively involved in Signify, a project dedicated to teaching American Sign Language through a mobile app, further reflecting my commitment to using technology for social good.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I’m not immersed in coding or math problems, you’ll find me tutoring, teaching, and sharing knowledge with others. I believe in the power of collaboration and education to make a positive impact.
+
+Feel free to explore my projects, publications, and experiences as I continue on this journey of learning and creating!

@@ -8,7 +8,7 @@ middle_name:
 last_name: Hurtado
 email: edwin.hurtado@yachaytech.edu.ec
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am a mathematician and computer scientist with a passion for teaching and research. My research interests include algebra, topology, and coding theory. I am also passionate about making math accessible and fun for everyone. I have developed projects like Math2Braille to help visually impaired students learn math. Join me on my math adventures!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
